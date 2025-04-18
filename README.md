@@ -1,2 +1,2 @@
-# pahuradP-evad
+# Pahurad Päevad
 Isetehtud blogi eksperiment
